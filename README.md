@@ -17,8 +17,8 @@ We have created 4 scenes:
 
 ## Screenshots
 
-|                               Screen                               |                            Screen                                  |
+|                               Game                               |                            Start                                  |
 |:-----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
-|  <img src="https://raw.githubusercontent.com/your-username/repository-name/main/path/to/image1.png" style="height: 50%; width:50%;"/>  |  <img src="https://raw.githubusercontent.com/your-username/repository-name/main/path/to/image2.png" style="height: 50%; width:50%;"/>  |
-|                               Screen                               |                            Screen                                  |
-|  <img src="https://raw.githubusercontent.com/your-username/repository-name/main/path/to/image3.png" style="height: 50%; width:50%;"/>  |  <img src="https://raw.githubusercontent.com/your-username/repository-name/main/path/to/image4.png" style="height: 50%; width:50%;"/>  |
+|  <img src="https://github.com/KiritoMoreno/Card-Game-Celdas/blob/main/imgScenes/Game.png" style="height: 50%; width:50%;"/>  |  <img src="https://github.com/KiritoMoreno/Card-Game-Celdas/blob/main/imgScenes/Captura%20de%20pantalla%202024-05-19%20123611.png" style="height: 50%; width:50%;"/>  |
+|                               Win                               |                            Loss                                  |
+|  <img src="https://github.com/KiritoMoreno/Card-Game-Celdas/blob/main/imgScenes/Captura%20de%20pantalla%202024-05-19%20123545.png" style="height: 50%; width:50%;"/>  |  <img src="https://github.com/KiritoMoreno/Card-Game-Celdas/blob/main/imgScenes/Captura%20de%20pantalla%202024-05-19%20123553.png" style="height: 50%; width:50%;"/>  |
